@@ -1,0 +1,6 @@
+version=1
+id=
+title=Udderly RP Chat
+description=Fork of Buffy's RP Chat for use on UdderlyRP. I found some of the defaults/command names/etc. foreign to me and extended it with some features.
+tags=Build 41;Multiplayer
+visibility=public
